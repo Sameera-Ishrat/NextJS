@@ -1,6 +1,4 @@
 # NextJS
 
-Testing the git functionality here.Testing for stash pop
-
-adding more stuff to it
-hello hello world
+Testing the git functionality here
+Editing from main
